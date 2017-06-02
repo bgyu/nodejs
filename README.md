@@ -2,7 +2,9 @@
 Running node.js application inside a docker
 
 Dockerfile: It is a file to instruct docker how to build an image with node.js
+
 app/app.js: It is a very simple node.js application which is running at port 8888
+
 app/hello.js: It is a very simple javascript code of 'Hello world' program
 
 # How to build 
